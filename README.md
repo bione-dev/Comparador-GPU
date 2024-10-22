@@ -54,3 +54,9 @@ Pretendo melhorar este projeto em atualizações futuras, adicionando novas GPUs
 
 Todos os dados utilizados neste programa foram retirados do site [technical.city](https://technical.city).
 
+
+
+# UPDATE 1.0 
+
+Adicionei novas placas em GPURepository 4060, 3060 e 1050 TI.
+
