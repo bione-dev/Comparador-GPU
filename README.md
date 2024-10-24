@@ -52,17 +52,18 @@ Pretendo melhorar este projeto em atualizações futuras, adicionando novas GPUs
 
 ## Créditos
 
-Todos os dados utilizados neste programa foram retirados do site [technical.city](https://technical.city).
+Todos os dados utilizados neste programa foram retirados dos sites [technical.city](https://technical.city) e [tecpoweup](https://www.techpowerup.com/)
 
 
 
-# UPDATE 1.0 22/10/2024
+# UPDATE 1.0 / 2024-10-23
 
 Adicionei novas placas em GPURepository RTX4060, RTX3060 e GTX 1050 TI.
 
-# UPDATE 2.0 23/10/2024
+# UPDATE 2.0 / 2024-10-23
 
 O código atualizado permite a comparação de múltiplas GPUs em quatro jogos diferentes. Antes, o código tinha um escopo limitado, apenas comparando o desempenho em dois jogos. Agora, com a introdução de arrays para armazenar os FPS, ele possibilita uma comparação mais abrangente e detalhada. Isso proporciona uma experiência mais rica ao usuário ao oferecer mais opções e informações sobre o desempenho das GPUs em diversos jogos.
+
 -Adicionado novas placas em GPURepository RTX 4090, Intel UHD Graphics. 
 -Adicionado 2 novos jogos Hogwarts Legacy e Red Dead Redemption 2
 
