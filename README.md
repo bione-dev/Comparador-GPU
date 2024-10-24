@@ -56,7 +56,7 @@ Todos os dados utilizados neste programa foram retirados dos sites [technical.ci
 
 
 
-# UPDATE 1.0 / 2024-10-23
+# UPDATE 1.0 / 2024-10-22
 
 Adicionei novas placas em GPURepository RTX4060, RTX3060 e GTX 1050 TI.
 
