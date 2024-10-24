@@ -65,6 +65,7 @@ Adicionei novas placas em GPURepository RTX4060, RTX3060 e GTX 1050 TI.
 O código atualizado permite a comparação de múltiplas GPUs em quatro jogos diferentes. Antes, o código tinha um escopo limitado, apenas comparando o desempenho em dois jogos. Agora, com a introdução de arrays para armazenar os FPS, ele possibilita uma comparação mais abrangente e detalhada. Isso proporciona uma experiência mais rica ao usuário ao oferecer mais opções e informações sobre o desempenho das GPUs em diversos jogos.
 
 -Adicionado novas placas em GPURepository RTX 4090, Intel UHD Graphics. 
+
 -Adicionado 2 novos jogos Hogwarts Legacy e Red Dead Redemption 2
 
 
