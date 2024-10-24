@@ -1,6 +1,6 @@
 # Comparador de GPUs
 
-Este é um programa em Java que permite ao usuário comparar o desempenho de diferentes placas de vídeo (GPUs) com base em suas especificações técnicas e desempenho estimado em dois jogos populares: **Cyberpunk 2077** e **CS2**.
+Este é um programa em Java que permite ao usuário comparar o desempenho de diferentes placas de vídeo (GPUs) com base em suas especificações técnicas e desempenho em jogos populares para bentchmarks:
 
 ## Funcionalidades
 
@@ -56,7 +56,14 @@ Todos os dados utilizados neste programa foram retirados do site [technical.city
 
 
 
-# UPDATE 1.0 
+# UPDATE 1.0 22/10/2024
 
-Adicionei novas placas em GPURepository 4060, 3060 e 1050 TI.
+Adicionei novas placas em GPURepository RTX4060, RTX3060 e GTX 1050 TI.
+
+# UPDATE 2.0 23/10/2024
+
+O código atualizado permite a comparação de múltiplas GPUs em quatro jogos diferentes. Antes, o código tinha um escopo limitado, apenas comparando o desempenho em dois jogos. Agora, com a introdução de arrays para armazenar os FPS, ele possibilita uma comparação mais abrangente e detalhada. Isso proporciona uma experiência mais rica ao usuário ao oferecer mais opções e informações sobre o desempenho das GPUs em diversos jogos.
+-Adicionado novas placas em GPURepository RTX 4090, Intel UHD Graphics. 
+-Adicionado 2 novos jogos Hogwarts Legacy e Red Dead Redemption 2
+
 
