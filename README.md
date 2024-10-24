@@ -66,6 +66,6 @@ O código atualizado permite a comparação de múltiplas GPUs em quatro jogos d
 
 -Adicionado novas placas em GPURepository RTX 4090, Intel UHD Graphics. 
 
--Adicionado 2 novos jogos Hogwarts Legacy e Red Dead Redemption 2
+-Adicionado 2 novos jogos Hogwarts Legacy e Red Dead Redemption 2.
 
 
